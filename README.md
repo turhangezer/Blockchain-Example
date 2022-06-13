@@ -35,8 +35,3 @@ And it should be working. You can change the code as you wish to see what they e
 - HTML5
 - MySQL
 - Bootstrap5
-
-
-### Credit
-
-I used [this](https://www.youtube.com/watch?v=b41TVaLwhKc&list=PLtCKS3CuBDYV_Vyl1ZH2Je8gSdXfQf4e3) tutorial to help me code. So if you want detailed information you can check this tutorial out.
