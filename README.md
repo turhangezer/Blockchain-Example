@@ -16,6 +16,7 @@ This is a basic cryptocurrency that was coded in python. Purpose of this project
         - You should see something like this "Directory of C:\Program Files\MySQL\MySQL Server 8.0\bin"
         - Change directory with `cd` command. In this case `cd C:\Program Files\MySQL\MySQL Server 8.0\bin` If your directory is different you should enter it instead.
         - Then type `mysql.exe -uroot -p` and enter your password.
+        
 3. After you succesfully started MySql server, type `CREATE DATABASE crypto;`
 
 4. Type `USE crypto;`
