@@ -4,7 +4,7 @@ This is a basic cryptocurrency that was coded in python. Purpose of this project
 
 ## How to Install
 
-**You should have MySql installed.I set it up with the full options and I used "root" as a password and username**
+**You should have MySql installed. I set it up with the full options and I used "root" as password and username**
 
 1. Open a new terminal and type `pip install -r requirements.txt`
 
